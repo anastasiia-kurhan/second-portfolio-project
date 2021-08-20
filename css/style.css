@@ -247,6 +247,14 @@ section .section-title {
 
 }
 
+#buttons {
+
+    margin-top: 50px;
+}
+
+#mainH1{
+    margin-top: 200px;
+}
 
 /*
 .card-columns {
